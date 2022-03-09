@@ -4,7 +4,7 @@ Some description!
 Getting better
 ## Subheader
 
-Watch tutorial on YouTube
+Watch tutorial on YouTube  
 
 ## Local Development
 
